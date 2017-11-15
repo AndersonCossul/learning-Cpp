@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1510718741 source:c:\users\anderson\documents\learning c++\chapter4\structs\exec1\io.cpp
+	<iostream>
+	"structs.h"
+
+1510718302 c:\users\anderson\documents\learning c++\chapter4\structs\exec1\structs.h
+
+1510718937 source:c:\users\anderson\documents\learning c++\chapter4\structs\exec1\main.cpp
+	"io.h"
+	"structs.h"
+
+1510718521 c:\users\anderson\documents\learning c++\chapter4\structs\exec1\io.h
+	"structs.h"
+
