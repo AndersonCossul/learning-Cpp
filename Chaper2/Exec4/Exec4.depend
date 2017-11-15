@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1510716542 source:c:\users\anderson\documents\learning c++\chaper2\exec4\io.cpp
+	<iostream>
+
+1510716938 source:c:\users\anderson\documents\learning c++\chaper2\exec4\functions.cpp
+	"constants.h"
+
+1510716616 c:\users\anderson\documents\learning c++\chaper2\exec4\constants.h
+
+1510717042 source:c:\users\anderson\documents\learning c++\chaper2\exec4\main.cpp
+	"io.h"
+	"functions.h"
+
+1510716449 c:\users\anderson\documents\learning c++\chaper2\exec4\io.h
+
+1510716954 c:\users\anderson\documents\learning c++\chaper2\exec4\functions.h
+
