@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1510715918 source:c:\users\anderson\documents\learning c++\chaper2\exec3\io.cpp
+	<iostream>
+
+1510716134 source:c:\users\anderson\documents\learning c++\chaper2\exec3\main.cpp
+	<iostream>
+	"io.h"
+
+1510716163 c:\users\anderson\documents\learning c++\chaper2\exec3\io.h
+
