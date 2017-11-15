@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1510768309 source:c:\users\anderson\documents\learning c++\chapter4\quiz\main.cpp
+	"structs.h"
+	"enums.h"
+
+1510768835 c:\users\anderson\documents\learning c++\chapter4\quiz\structs.h
+	"enums.h"
+	<iostream>
+
+1510768729 c:\users\anderson\documents\learning c++\chapter4\quiz\enums.h
+
+1510768847 source:c:\users\anderson\documents\learning c++\chapter4\quiz\io.cpp
+	<iostream>
+	"structs.h"
+	"enums.h"
+
